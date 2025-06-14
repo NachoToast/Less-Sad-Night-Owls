@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>.git</exclude>
+    <exclude>.vscode</exclude>
+    <exclude>Source</exclude>
+    <exclude>.editorconfig</exclude>
+    <exclude>README.md</exclude>
+  </Excluded>
+</Configuration>
