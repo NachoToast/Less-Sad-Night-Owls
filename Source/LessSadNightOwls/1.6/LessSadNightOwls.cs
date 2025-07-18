@@ -2,7 +2,7 @@
 using RimWorld;
 using Verse;
 
-namespace PharmacistFix;
+namespace LessSadNightOwls;
 
 [StaticConstructorOnStartup]
 public class LessSadNightOwls
